@@ -1,7 +1,7 @@
-## Hi there 👋 I am Anurag Verma
+## Hi there👋, I am Anurag Verma
 
 # 💫 About Me:
- <h1>I'm a Fullstack web developer crafting seamless, scalable, and user-focused applications with expertise in modern frontend and backend technologies.</h1>
+ # I'm a Fullstack web developer crafting seamless, scalable, and user-focused applications with expertise in modern frontend and backend technologies.
 
 
 ## 🌐 Socials:
